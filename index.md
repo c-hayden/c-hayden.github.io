@@ -1,6 +1,6 @@
 ## Welcome
 
-Sophomore at the University of Maryland, College Park majoring in Computer Science and minoring in Astronomy.
+Sophomore at the University of Maryland majoring in Computer Science and minoring in Astronomy.
 
 - Photography
 - Videography
