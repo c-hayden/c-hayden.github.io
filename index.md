@@ -10,9 +10,3 @@ Sophomore at the University of Maryland majoring in Computer Science and minorin
 ### Contact
 
 E-mail: c.hayden.business@gmail.com
-
-```markdown
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
